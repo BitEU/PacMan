@@ -4,6 +4,8 @@
 
 **Original Source:** https://www.reddit.com/r/Batch/comments/lyj3i0/pacman_in_pure_batch/
 
+https://www.reddit.com/r/Batch/comments/k9hnxv/snake_in_pure_batch/
+
 This project is based on the amazing work shared by the original author on Reddit. All credit for the core implementation goes to the original creator. This repository contains only minor modifications to the original code.
 
 ---
